@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601588962 source:c:\users\k12_a\onedrive\documents\proyectos_codebolcks\eficiencia\grafoprimerentrega\src\grafodirigido.cpp
+	"GrafoDirigido.h"
+
+1601427087 c:\users\k12_a\onedrive\documents\proyectos_codebolcks\eficiencia\grafoprimerentrega\include\grafodirigido.h
+	<list>
+	<map>
+
+1601575927 source:c:\users\k12_a\onedrive\documents\proyectos_codebolcks\eficiencia\grafoprimerentrega\main.cpp
+	<iostream>
+	<GrafoDirigido.h>
+	<map>
+
